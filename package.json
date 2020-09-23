@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@cloudbees/react-honeyui": "0.0.13-alpha-3",
+    "@cloudbees/honeyui": ">=2.3.1",
+    "@cloudbees/honeyui-icons": ">=2.3.1",
+    "react-bootstrap": "^1.0.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
