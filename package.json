@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@cloudbees/react-honeyui": "0.0.13-alpha-3",
+    "@cloudbees/react-honeyui": "0.0.12-alpha-0",
     "@cloudbees/honeyui": ">=2.3.1",
     "@cloudbees/honeyui-icons": ">=2.3.1",
     "react-bootstrap": "^1.0.1",

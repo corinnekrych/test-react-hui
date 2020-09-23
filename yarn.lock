@@ -1289,10 +1289,10 @@
     "@cloudbees/honeyui-tooltip" "^2.3.0"
     bootstrap "^4.4.1"
 
-"@cloudbees/react-honeyui@0.0.13-alpha-3":
-  version "0.0.13-alpha-3"
-  resolved "https://registry.npmjs.org/@cloudbees/react-honeyui/-/react-honeyui-0.0.13-alpha-3.tgz#1736752037a5a76227666bac34296f31d45cfdd6"
-  integrity sha512-y9476D4LMf42G5+LfCBBHuUUA9J1ROjV0w1ZIyOAydTb0QR9gXzKcuo6e/+a2olBR3cUeZOV09MBvjBgn5YWkA==
+"@cloudbees/react-honeyui@0.0.12-alpha-0":
+  version "0.0.12-alpha-0"
+  resolved "https://registry.npmjs.org/@cloudbees/react-honeyui/-/react-honeyui-0.0.12-alpha-0.tgz#b3d84ad4065a8b278ccfae0d4e47e73affab30e4"
+  integrity sha512-5zs13jjzvgW6eZO8hqhoLbRCyPYdLD4GiKI7b0nUDPlBGtn/YQKkL6s5LBG8w6kHINldBaG3kl12mGqMNR7P6g==
   dependencies:
     classnames "^2.2.6"
 
